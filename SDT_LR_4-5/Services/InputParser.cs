@@ -1,12 +1,5 @@
-
-
-
-
-
 using ConsoleApp1.Models;
-
 namespace ConsoleApp1.Services;
-
 /// <summary>
 /// Парсер входных данных.
 /// </summary>
